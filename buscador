@@ -1,5 +1,5 @@
 (function(){
-    "Use strit";
+    "Use strict";
     document.addEventListener('DOMContentLoaded', function(){
 
         const searching=document.querySelector('#search'); 
